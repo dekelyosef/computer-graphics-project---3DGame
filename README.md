@@ -1,2 +1,5 @@
-# computer-graphics-project---3DGame
+# משח
+בפרויקט בקורס גרפיקה ממוחשבת יצרנו משחק תלת מימדי אשר יש בו תנועה של שחקן בתוך מרחב תלת מימדי סגור המורכב מ-2 חללים. המשחק מאפשר תנועה של השחקן במרחב, זיהוי התנגשויות וכולל שימוש בטקטורה, תאורה ומספר אובייקטים נעים (מלשון תנועה). התוכנית משתמשת בספריית OpenGL 
+# הוראות המשחק
+OpenGL ‏(Open Graphics Library) הוא ממשק תכנות יישומים ליצירת תוכנות שמייצרות גרפיקה תלת ממדית ממוחשבת
 ![alt text](https://github.com/dekelyosef/computer-graphics-project---3DGame/blob/main/resources/openScreen.png)
