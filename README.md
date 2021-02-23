@@ -5,4 +5,4 @@ OpenGL שימוש בממשק
 ![alt text](https://github.com/dekelyosef/computer-graphics-project---3DGame/blob/main/resources/openScreen.png)
 
 # הוראות המשחק
-![alt text](https://github.com/dekelyosef/computer-graphics-project---3DGame/blob/main/resources/openScreen.png)
+![alt text](https://github.com/dekelyosef/computer-graphics-project---3DGame/blob/main/resources/textures/instructionsMenu.jpg)
